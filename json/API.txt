@@ -1,0 +1,7 @@
+<!-- @format -->
+
+https://apipromocionales.marpico.co/api/inventarios/materialesAPI
+
+https://apipromocionales.marpico.co/api/inventarios/materialesAPIByProducto?producto=AN0047
+
+Authorization - Api-Key eyJhbGciOiJIUzI1NiJ9.UFVCTElNQVJLRVIgU0FT.AJBYRRIuLeW5ETd8yA4jXFLgRU-p1VBMZ-lBEz8IhnA

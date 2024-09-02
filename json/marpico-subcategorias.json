@@ -1,0 +1,562 @@
+[
+  {
+    "orden": 73,
+    "nombre": "Gafas",
+    "jerarquia": "3001400003",
+    "id": "62e95b9ef1a621792971eb55",
+    "estado": 1,
+    "categoria": "30014"
+  },
+  {
+    "orden": 74,
+    "nombre": "Maletas y Estuches de Viaje",
+    "jerarquia": "3001400004",
+    "id": "62e95b9ef1a621792971eb56",
+    "estado": 1,
+    "categoria": "30014"
+  },
+  {
+    "orden": 78,
+    "nombre": "Deportes",
+    "jerarquia": "3001400008",
+    "id": "62e95b9ef1a621792971eb5a",
+    "estado": 1,
+    "categoria": "30014"
+  },
+  {
+    "orden": 77,
+    "nombre": "Sillas",
+    "jerarquia": "3001400007",
+    "id": "62e95b9ef1a621792971eb59",
+    "estado": 1,
+    "categoria": "30014"
+  },
+  {
+    "orden": 76,
+    "nombre": "Recreación",
+    "jerarquia": "3001400006",
+    "id": "62e95b9ef1a621792971eb58",
+    "estado": 1,
+    "categoria": "30014"
+  },
+  {
+    "orden": 75,
+    "nombre": "Maletines Deportivos",
+    "jerarquia": "3001400005",
+    "id": "62e95b9ef1a621792971eb57",
+    "estado": 1,
+    "categoria": "30014"
+  },
+  {
+    "orden": 72,
+    "nombre": "Accesorios de Viaje",
+    "jerarquia": "3001400002",
+    "id": "62e95b9ef1a621792971eb54",
+    "estado": 1,
+    "categoria": "30014"
+  },
+  {
+    "orden": 71,
+    "nombre": "USB",
+    "jerarquia": "3001300001",
+    "id": "62e95b9ef1a621792971eb53",
+    "estado": 1,
+    "categoria": "30013"
+  },
+  {
+    "orden": 64,
+    "nombre": "Pilas Power Bank",
+    "jerarquia": "3001200004",
+    "id": "62e95b9ef1a621792971eb51",
+    "estado": 1,
+    "categoria": "30012"
+  },
+  {
+    "orden": 59,
+    "nombre": "Accesorios para Móviles",
+    "jerarquia": "3001200007",
+    "id": "62e95b9ef1a621792971eb4c",
+    "estado": 1,
+    "categoria": "30012"
+  },
+  {
+    "orden": 61,
+    "nombre": "Audífonos",
+    "jerarquia": "3001200009",
+    "id": "62e95b9ef1a621792971eb4e",
+    "estado": 1,
+    "categoria": "30012"
+  },
+  {
+    "orden": 58,
+    "nombre": "Accesorios para Automóvil",
+    "jerarquia": "3001200011",
+    "id": "62e95b9ef1a621792971eb4b",
+    "estado": 1,
+    "categoria": "30012"
+  },
+  {
+    "orden": 63,
+    "nombre": "Hubs",
+    "jerarquia": "3001200003",
+    "id": "62e95b9ef1a621792971eb50",
+    "estado": 1,
+    "categoria": "30012"
+  },
+  {
+    "orden": 62,
+    "nombre": "Cables y Adaptadores de Carga",
+    "jerarquia": "3001200012",
+    "id": "62e95b9ef1a621792971eb4f",
+    "estado": 1,
+    "categoria": "30012"
+  },
+  {
+    "orden": 57,
+    "nombre": "Accesorios de Computador",
+    "jerarquia": "3001200001",
+    "id": "62e95b9ef1a621792971eb4a",
+    "estado": 1,
+    "categoria": "30012"
+  },
+  {
+    "orden": 60,
+    "nombre": "Altavoz",
+    "jerarquia": "3001200002",
+    "id": "62e95b9ef1a621792971eb4d",
+    "estado": 1,
+    "categoria": "30012"
+  },
+  {
+    "orden": 65,
+    "nombre": "Relojes",
+    "jerarquia": "3001200005",
+    "id": "62e95b9ef1a621792971eb52",
+    "estado": 1,
+    "categoria": "30012"
+  },
+  {
+    "orden": 54,
+    "nombre": "Limas y Manicure",
+    "jerarquia": "3001100004",
+    "id": "62e95b9ef1a621792971eb47",
+    "estado": 1,
+    "categoria": "30011"
+  },
+  {
+    "orden": 52,
+    "nombre": "Cuidado Personal",
+    "jerarquia": "3001100002",
+    "id": "62e95b9ef1a621792971eb45",
+    "estado": 1,
+    "categoria": "30011"
+  },
+  {
+    "orden": 53,
+    "nombre": "Especializados en Salud",
+    "jerarquia": "3001100003",
+    "id": "62e95b9ef1a621792971eb46",
+    "estado": 1,
+    "categoria": "30011"
+  },
+  {
+    "orden": 51,
+    "nombre": "Antibacteriales",
+    "jerarquia": "3001100001",
+    "id": "62e95b9ef1a621792971eb44",
+    "estado": 1,
+    "categoria": "30011"
+  },
+  {
+    "orden": 55,
+    "nombre": "Pastilleros",
+    "jerarquia": "3001100005",
+    "id": "62e95b9ef1a621792971eb48",
+    "estado": 1,
+    "categoria": "30011"
+  },
+  {
+    "orden": 49,
+    "nombre": "Paraguas Golf",
+    "jerarquia": "3001000010",
+    "id": "62e95b9ef1a621792971eb42",
+    "estado": 1,
+    "categoria": "30010"
+  },
+  {
+    "orden": 50,
+    "nombre": "Paraguas Mini",
+    "jerarquia": "3001000011",
+    "id": "62e95b9ef1a621792971eb43",
+    "estado": 1,
+    "categoria": "30010"
+  },
+  {
+    "orden": 48,
+    "nombre": "Paraguas Fashion",
+    "jerarquia": "3001000009",
+    "id": "62e95b9ef1a621792971eb41",
+    "estado": 1,
+    "categoria": "30010"
+  },
+  {
+    "orden": 47,
+    "nombre": "Impermeables",
+    "jerarquia": "3001000008",
+    "id": "62e95b9ef1a621792971eb40",
+    "estado": 1,
+    "categoria": "30010"
+  },
+  {
+    "orden": 39,
+    "nombre": "Accesorios de Escritorio",
+    "jerarquia": "3000900001",
+    "id": "62e95b9ef1a621792971eb39",
+    "estado": 1,
+    "categoria": "30009"
+  },
+  {
+    "orden": 41,
+    "nombre": "Libretas Ecologicas",
+    "jerarquia": "3000900003",
+    "id": "62e95b9ef1a621792971eb3b",
+    "estado": 1,
+    "categoria": "30009"
+  },
+  {
+    "orden": 46,
+    "nombre": "Identificadores - Oficina",
+    "jerarquia": "3000900008",
+    "id": "62e95b9ef1a621792971eb3f",
+    "estado": 1,
+    "categoria": "30009"
+  },
+  {
+    "orden": 42,
+    "nombre": "Libretas Plasticas",
+    "jerarquia": "3000900004",
+    "id": "62e95b9ef1a621792971eb3c",
+    "estado": 1,
+    "categoria": "30009"
+  },
+  {
+    "orden": 40,
+    "nombre": "Calculadoras",
+    "jerarquia": "3000900002",
+    "id": "62e95b9ef1a621792971eb3a",
+    "estado": 1,
+    "categoria": "30009"
+  },
+  {
+    "orden": 45,
+    "nombre": "Tarjeteros y Monederos",
+    "jerarquia": "3000900007",
+    "id": "62e95b9ef1a621792971eb3e",
+    "estado": 1,
+    "categoria": "30009"
+  },
+  {
+    "orden": 43,
+    "nombre": "Memos y Adhesivos",
+    "jerarquia": "3000900005",
+    "id": "62e95b9ef1a621792971eb3d",
+    "estado": 1,
+    "categoria": "30009"
+  },
+  {
+    "orden": 38,
+    "nombre": "Accesorios de Mercado",
+    "jerarquia": "3000800012",
+    "id": "62e95b9ef1a621792971eb38",
+    "estado": 1,
+    "categoria": "30008"
+  },
+  {
+    "orden": 35,
+    "nombre": "Accesorios de Cocina",
+    "jerarquia": "3000800009",
+    "id": "62e95b9ef1a621792971eb35",
+    "estado": 1,
+    "categoria": "30008"
+  },
+  {
+    "orden": 37,
+    "nombre": "Accesorios de Mascota",
+    "jerarquia": "3000800011",
+    "id": "62e95b9ef1a621792971eb37",
+    "estado": 1,
+    "categoria": "30008"
+  },
+  {
+    "orden": 36,
+    "nombre": "Accesorios de Hogar",
+    "jerarquia": "3000800010",
+    "id": "62e95b9ef1a621792971eb36",
+    "estado": 1,
+    "categoria": "30008"
+  },
+  {
+    "orden": 27,
+    "nombre": "Cintas Métricas",
+    "jerarquia": "3000700001",
+    "id": "62e95b9ef1a621792971eb2f",
+    "estado": 1,
+    "categoria": "30007"
+  },
+  {
+    "orden": 28,
+    "nombre": "Herramienteros",
+    "jerarquia": "3000700002",
+    "id": "62e95b9ef1a621792971eb30",
+    "estado": 1,
+    "categoria": "30007"
+  },
+  {
+    "orden": 33,
+    "nombre": "Llaveros Metálicos",
+    "jerarquia": "3000700007",
+    "id": "62e95b9ef1a621792971eb34",
+    "estado": 1,
+    "categoria": "30007"
+  },
+  {
+    "orden": 32,
+    "nombre": "Llaveros con Linterna",
+    "jerarquia": "3000700006",
+    "id": "62e95b9ef1a621792971eb33",
+    "estado": 1,
+    "categoria": "30007"
+  },
+  {
+    "orden": 31,
+    "nombre": "Llaveros",
+    "jerarquia": "3000700005",
+    "id": "62e95b9ef1a621792971eb32",
+    "estado": 1,
+    "categoria": "30007"
+  },
+  {
+    "orden": 30,
+    "nombre": "Linternas",
+    "jerarquia": "3000700004",
+    "id": "62e95b9ef1a621792971eb31",
+    "estado": 1,
+    "categoria": "30007"
+  },
+  {
+    "orden": 26,
+    "nombre": "Gorras",
+    "jerarquia": "3000600001",
+    "id": "62e95b9ef1a621792971eb2e",
+    "estado": 1,
+    "categoria": "30006"
+  },
+  {
+    "orden": 24,
+    "nombre": "Portaminas",
+    "jerarquia": "3000500008",
+    "id": "62e95b9ef1a621792971eb2b",
+    "estado": 1,
+    "categoria": "30005"
+  },
+  {
+    "orden": 20,
+    "nombre": "Bolígrafos Plásticos",
+    "jerarquia": "3000500004",
+    "id": "62e95b9ef1a621792971eb27",
+    "estado": 1,
+    "categoria": "30005"
+  },
+  {
+    "orden": 25,
+    "nombre": "Resaltadores",
+    "jerarquia": "3000500009",
+    "id": "62e95b9ef1a621792971eb2c",
+    "estado": 1,
+    "categoria": "30005"
+  },
+  {
+    "orden": 22,
+    "nombre": "Estuches de Regalo",
+    "jerarquia": "3000500006",
+    "id": "62e95b9ef1a621792971eb29",
+    "estado": 1,
+    "categoria": "30005"
+  },
+  {
+    "orden": 21,
+    "nombre": "Boligrafos en Aluminio",
+    "jerarquia": "3000500005",
+    "id": "62e95b9ef1a621792971eb28",
+    "estado": 1,
+    "categoria": "30005"
+  },
+  {
+    "orden": 19,
+    "nombre": "Bolígrafos Metálicos",
+    "jerarquia": "3000500003",
+    "id": "62e95b9ef1a621792971eb26",
+    "estado": 1,
+    "categoria": "30005"
+  },
+  {
+    "orden": 79,
+    "nombre": "Boligrafos con Resaltador",
+    "jerarquia": "3000500001",
+    "id": "62e95b9ef1a621792971eb2d",
+    "estado": 1,
+    "categoria": "30005"
+  },
+  {
+    "orden": 18,
+    "nombre": "Bolígrafos Ecológicos",
+    "jerarquia": "3000500002",
+    "id": "62e95b9ef1a621792971eb25",
+    "estado": 1,
+    "categoria": "30005"
+  },
+  {
+    "orden": 23,
+    "nombre": "Lápices, Colores y Crayolas",
+    "jerarquia": "3000500007",
+    "id": "62e95b9ef1a621792971eb2a",
+    "estado": 1,
+    "categoria": "30005"
+  },
+  {
+    "orden": 9,
+    "nombre": "Bolsos de Mano",
+    "jerarquia": "3000400001",
+    "id": "62e95b9ef1a621792971eb1e",
+    "estado": 1,
+    "categoria": "30004"
+  },
+  {
+    "orden": 14,
+    "nombre": "Neveras Loncheras",
+    "jerarquia": "3000400006",
+    "id": "62e95b9ef1a621792971eb23",
+    "estado": 1,
+    "categoria": "30004"
+  },
+  {
+    "orden": 13,
+    "nombre": "Morrales",
+    "jerarquia": "3000400005",
+    "id": "62e95b9ef1a621792971eb22",
+    "estado": 1,
+    "categoria": "30004"
+  },
+  {
+    "orden": 16,
+    "nombre": "Tula, Morral",
+    "jerarquia": "3000400008",
+    "id": "62e95b9ef1a621792971eb24",
+    "estado": 1,
+    "categoria": "30004"
+  },
+  {
+    "orden": 10,
+    "nombre": "Canguros",
+    "jerarquia": "3000400002",
+    "id": "62e95b9ef1a621792971eb1f",
+    "estado": 1,
+    "categoria": "30004"
+  },
+  {
+    "orden": 12,
+    "nombre": "Maletines de Mensajeria y Ejecutivos",
+    "jerarquia": "3000400004",
+    "id": "62e95b9ef1a621792971eb21",
+    "estado": 1,
+    "categoria": "30004"
+  },
+  {
+    "orden": 11,
+    "nombre": "Manos Libres",
+    "jerarquia": "3000400003",
+    "id": "62e95b9ef1a621792971eb20",
+    "estado": 1,
+    "categoria": "30004"
+  },
+  {
+    "orden": 4,
+    "nombre": "Botellas en Tritán",
+    "jerarquia": "3000300003",
+    "id": "62e95b9ef1a621792971eb19",
+    "estado": 1,
+    "categoria": "30003"
+  },
+  {
+    "orden": 6,
+    "nombre": "Mugs y Vasos Metálicos",
+    "jerarquia": "3000300006",
+    "id": "62e95b9ef1a621792971eb1b",
+    "estado": 1,
+    "categoria": "30003"
+  },
+  {
+    "orden": 8,
+    "nombre": "Vasos Plásticos y Ecológicos",
+    "jerarquia": "3000300008",
+    "id": "62e95b9ef1a621792971eb1d",
+    "estado": 1,
+    "categoria": "30003"
+  },
+  {
+    "orden": 7,
+    "nombre": "Termos",
+    "jerarquia": "3000300007",
+    "id": "62e95b9ef1a621792971eb1c",
+    "estado": 1,
+    "categoria": "30003"
+  },
+  {
+    "orden": 3,
+    "nombre": "Botellas en Aluminio",
+    "jerarquia": "3000300002",
+    "id": "62e95b9ef1a621792971eb18",
+    "estado": 1,
+    "categoria": "30003"
+  },
+  {
+    "orden": 1,
+    "nombre": "Botellas Deportivas Plásticas",
+    "jerarquia": "3000300004",
+    "id": "62e95b9ef1a621792971eb16",
+    "estado": 1,
+    "categoria": "30003"
+  },
+  {
+    "orden": 5,
+    "nombre": "Mugs de Cerámica",
+    "jerarquia": "3000300005",
+    "id": "62e95b9ef1a621792971eb1a",
+    "estado": 1,
+    "categoria": "30003"
+  },
+  {
+    "orden": 2,
+    "nombre": "Botellas en Acero",
+    "jerarquia": "3000300001",
+    "id": "62e95b9ef1a621792971eb17",
+    "estado": 1,
+    "categoria": "30003"
+  },
+  {
+    "orden": 0,
+    "nombre": "Bar",
+    "jerarquia": "3000200001",
+    "id": "62e95b9ef1a621792971eb15",
+    "estado": 1,
+    "categoria": "30002"
+  },
+  {
+    "orden": 0,
+    "nombre": "Antiestrés",
+    "jerarquia": "3000100001",
+    "id": "62e95b9ef1a621792971eb14",
+    "estado": 1,
+    "categoria": "30001"
+  }
+]

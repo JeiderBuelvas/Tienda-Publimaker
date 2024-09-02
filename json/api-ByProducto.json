@@ -1,0 +1,355 @@
+[
+  {
+    "familia": "AN0047",
+    "descripcion_comercial": "Antiestrés Bola",
+    "descripcion_larga": "Desestresante en forma de bola.",
+    "material": "PU (Poliuretano).",
+    "empaque_individual": "Cada pieza en bolsa OPP",
+    "empaque_unds_caja": 250,
+    "empaque_unds_medida": null,
+    "empaque_largo": "62.00",
+    "empaque_ancho": "35.00",
+    "empaque_alto": "25.50",
+    "empaque_peso_neto": "5.00",
+    "empaque_peso_bruto": "6.00",
+    "area_impresion": "2,8 x 2,2 cm.",
+    "medidas_largo": null,
+    "medidas_ancho": null,
+    "medidas_alto": null,
+    "medidas_diametro": "6.30",
+    "medidas_peso_neto": "20.00",
+    "tecnica_marca_codigo": "5500047",
+    "tecnica_marca_tecnica": "TAMPO.  ANTIESTRES 1 TINTA",
+    "tecnica_marca_precio": null,
+    "tecnica_marca_num_tintas": null,
+    "tecnica_marca_descripcion": "SE SUGIERE: Tampografía para Antiestrés 1 tinta.",
+    "subcategoria_1": {
+      "jerarquia": "3000100001",
+      "nombre": "Antiestrés",
+      "categoria": "30001",
+      "nombre_categoria": "Antiestrés"
+    },
+    "subcategoria_2": null,
+    "subcategoria_3": null,
+    "temas": [],
+    "etiquetas": [],
+    "imagenes": [
+      "https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047__29532.jpg",
+      "https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047__29531.jpg",
+      "https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3003350_30036.jpg",
+      "https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3003350_30037.jpg",
+      "https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3004067_30038.jpg",
+      "https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3004068_30039.jpg",
+      "https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3004070_30041.jpg",
+      "https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3004071_30042.jpg",
+      "https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3004737_30075.jpg",
+      "https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3031495_50289.jpg",
+      "https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3003349_43633.jpg",
+      "https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3004218_46922.jpg",
+      "https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3004069_30040.jpg"
+    ],
+    "materiales": [
+      {
+        "codigo": 3004068,
+        "familia": "AN0047",
+        "variedad": null,
+        "color_nombre": "Amarillo",
+        "precio": 3890,
+        "descuento": 0,
+        "estado": "1",
+        "inventario_almacen": [
+          {
+            "cantidad": 11603,
+            "unidad": "UN"
+          }
+        ],
+        "trackings_importacion": [
+          {
+            "_id": "6679a6155e7f7d2d480998a1",
+            "material_id": 3004068,
+            "estado": "Transporte Internacional",
+            "fecha": "2024-07-10T00:00:00.000Z",
+            "cantidad": 3000,
+            "unidad": "UN",
+            "ultima_actualizacion": "2024-06-24T17:00:05.763Z"
+          },
+          {
+            "_id": "6679a6155e7f7d2d48099c79",
+            "material_id": 3004068,
+            "estado": "Producción",
+            "fecha": "2024-09-29T00:00:00.000Z",
+            "cantidad": 10000,
+            "unidad": "UN",
+            "ultima_actualizacion": "2024-06-24T17:00:05.911Z"
+          }
+        ],
+        "imagenes": ["https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3004068_30039.jpg"]
+      },
+      {
+        "codigo": 3004737,
+        "familia": "AN0047",
+        "variedad": null,
+        "color_nombre": "Negro",
+        "precio": 3890,
+        "descuento": 0,
+        "estado": "1",
+        "inventario_almacen": [
+          {
+            "cantidad": 1644,
+            "unidad": "UN"
+          }
+        ],
+        "trackings_importacion": [
+          {
+            "_id": "6679a6155e7f7d2d480998a2",
+            "material_id": 3004737,
+            "estado": "Transporte Internacional",
+            "fecha": "2024-07-10T00:00:00.000Z",
+            "cantidad": 10000,
+            "unidad": "UN",
+            "ultima_actualizacion": "2024-06-24T17:00:05.763Z"
+          },
+          {
+            "_id": "6679a6155e7f7d2d48099c7b",
+            "material_id": 3004737,
+            "estado": "Producción",
+            "fecha": "2024-09-29T00:00:00.000Z",
+            "cantidad": 15000,
+            "unidad": "UN",
+            "ultima_actualizacion": "2024-06-24T17:00:05.911Z"
+          }
+        ],
+        "imagenes": ["https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3004737_30075.jpg"]
+      },
+      {
+        "codigo": 3031495,
+        "familia": "AN0047",
+        "variedad": null,
+        "color_nombre": "Blanco",
+        "precio": 3890,
+        "descuento": 0,
+        "estado": "1",
+        "inventario_almacen": [
+          {
+            "cantidad": 0,
+            "unidad": "UN"
+          }
+        ],
+        "trackings_importacion": [
+          {
+            "_id": "6679a6155e7f7d2d480998a3",
+            "material_id": 3031495,
+            "estado": "Transporte Internacional",
+            "fecha": "2024-07-10T00:00:00.000Z",
+            "cantidad": 10000,
+            "unidad": "UN",
+            "ultima_actualizacion": "2024-06-24T17:00:05.764Z"
+          },
+          {
+            "_id": "6679a6155e7f7d2d48099c7c",
+            "material_id": 3031495,
+            "estado": "Producción",
+            "fecha": "2024-09-29T00:00:00.000Z",
+            "cantidad": 15000,
+            "unidad": "UN",
+            "ultima_actualizacion": "2024-06-24T17:00:05.911Z"
+          }
+        ],
+        "imagenes": ["https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3031495_50289.jpg"]
+      },
+      {
+        "codigo": 3004071,
+        "familia": "AN0047",
+        "variedad": null,
+        "color_nombre": "Naranja",
+        "precio": 3890,
+        "descuento": 0,
+        "estado": "1",
+        "inventario_almacen": [
+          {
+            "cantidad": 4,
+            "unidad": "UN"
+          }
+        ],
+        "trackings_importacion": [
+          {
+            "_id": "6679a6155e7f7d2d480998a5",
+            "material_id": 3004071,
+            "estado": "Transporte Internacional",
+            "fecha": "2024-07-10T00:00:00.000Z",
+            "cantidad": 3000,
+            "unidad": "UN",
+            "ultima_actualizacion": "2024-06-24T17:00:05.764Z"
+          },
+          {
+            "_id": "6679a6155e7f7d2d48099c80",
+            "material_id": 3004071,
+            "estado": "Producción",
+            "fecha": "2024-09-29T00:00:00.000Z",
+            "cantidad": 10000,
+            "unidad": "UN",
+            "ultima_actualizacion": "2024-06-24T17:00:05.911Z"
+          }
+        ],
+        "imagenes": ["https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3004071_30042.jpg"]
+      },
+      {
+        "codigo": 3003349,
+        "familia": "AN0047",
+        "variedad": null,
+        "color_nombre": "Morado",
+        "precio": 3890,
+        "descuento": 0,
+        "estado": "1",
+        "inventario_almacen": [
+          {
+            "cantidad": 20,
+            "unidad": "UN"
+          }
+        ],
+        "trackings_importacion": [
+          {
+            "_id": "6679a6155e7f7d2d480998a4",
+            "material_id": 3003349,
+            "estado": "Transporte Internacional",
+            "fecha": "2024-07-10T00:00:00.000Z",
+            "cantidad": 4000,
+            "unidad": "UN",
+            "ultima_actualizacion": "2024-06-24T17:00:05.764Z"
+          },
+          {
+            "_id": "6679a6155e7f7d2d48099c7f",
+            "material_id": 3003349,
+            "estado": "Producción",
+            "fecha": "2024-09-29T00:00:00.000Z",
+            "cantidad": 10000,
+            "unidad": "UN",
+            "ultima_actualizacion": "2024-06-24T17:00:05.911Z"
+          }
+        ],
+        "imagenes": ["https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3003349_43633.jpg"]
+      },
+      {
+        "codigo": 3004070,
+        "familia": "AN0047",
+        "variedad": null,
+        "color_nombre": "Azul Rey",
+        "precio": 3890,
+        "descuento": 0,
+        "estado": "1",
+        "inventario_almacen": [
+          {
+            "cantidad": 3668,
+            "unidad": "UN"
+          }
+        ],
+        "trackings_importacion": [
+          {
+            "_id": "6679a6155e7f7d2d480998a0",
+            "material_id": 3004070,
+            "estado": "Transporte Internacional",
+            "fecha": "2024-07-10T00:00:00.000Z",
+            "cantidad": 10000,
+            "unidad": "UN",
+            "ultima_actualizacion": "2024-06-24T17:00:05.763Z"
+          },
+          {
+            "_id": "6679a6155e7f7d2d48099c78",
+            "material_id": 3004070,
+            "estado": "Producción",
+            "fecha": "2024-09-29T00:00:00.000Z",
+            "cantidad": 30000,
+            "unidad": "UN",
+            "ultima_actualizacion": "2024-06-24T17:00:05.911Z"
+          }
+        ],
+        "imagenes": ["https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3004070_30041.jpg"]
+      },
+      {
+        "codigo": 3003350,
+        "familia": "AN0047",
+        "variedad": null,
+        "color_nombre": "Verde Limón",
+        "precio": 3890,
+        "descuento": 0,
+        "estado": "1",
+        "inventario_almacen": [
+          {
+            "cantidad": 2619,
+            "unidad": "UN"
+          }
+        ],
+        "trackings_importacion": [
+          {
+            "_id": "6679a6155e7f7d2d48099c7e",
+            "material_id": 3003350,
+            "estado": "Producción",
+            "fecha": "2024-09-29T00:00:00.000Z",
+            "cantidad": 10000,
+            "unidad": "UN",
+            "ultima_actualizacion": "2024-06-24T17:00:05.911Z"
+          }
+        ],
+        "imagenes": [
+          "https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3003350_30036.jpg",
+          "https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3003350_30037.jpg"
+        ]
+      },
+      {
+        "codigo": 3004067,
+        "familia": "AN0047",
+        "variedad": null,
+        "color_nombre": "Verde Esmeralda",
+        "precio": 3890,
+        "descuento": 0,
+        "estado": "1",
+        "inventario_almacen": [
+          {
+            "cantidad": 12688,
+            "unidad": "UN"
+          }
+        ],
+        "trackings_importacion": [
+          {
+            "_id": "6679a6155e7f7d2d48099c7d",
+            "material_id": 3004067,
+            "estado": "Producción",
+            "fecha": "2024-09-29T00:00:00.000Z",
+            "cantidad": 5000,
+            "unidad": "UN",
+            "ultima_actualizacion": "2024-06-24T17:00:05.911Z"
+          }
+        ],
+        "imagenes": ["https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3004067_30038.jpg"]
+      },
+      {
+        "codigo": 3004069,
+        "familia": "AN0047",
+        "variedad": null,
+        "color_nombre": "Rojo",
+        "precio": 3890,
+        "descuento": 0,
+        "estado": "1",
+        "inventario_almacen": [
+          {
+            "cantidad": 9548,
+            "unidad": "UN"
+          }
+        ],
+        "trackings_importacion": [
+          {
+            "_id": "6679a6155e7f7d2d48099c7a",
+            "material_id": 3004069,
+            "estado": "Producción",
+            "fecha": "2024-09-29T00:00:00.000Z",
+            "cantidad": 10000,
+            "unidad": "UN",
+            "ultima_actualizacion": "2024-06-24T17:00:05.911Z"
+          }
+        ],
+        "imagenes": ["https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047_3004069_30040.jpg"]
+      }
+    ],
+    "imagen": "https://marpicostorage.blob.core.windows.net/media/productos/AN0047/AN0047__29532.jpg"
+  }
+]

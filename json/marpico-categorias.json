@@ -1,0 +1,100 @@
+[
+  {
+    "orden": 13,
+    "nombre": "Viajes, Recreación y Deportes",
+    "jerarquia": "30014",
+    "imagen": "categorias/Viajes_Recreación_y_Deportes_2022-07-08-18-00-11_53.png",
+    "id": "630679f4742b69652c62c46f"
+  },
+  {
+    "orden": 12,
+    "nombre": "USB",
+    "jerarquia": "30013",
+    "imagen": "categorias/USB_2022-07-08-17-59-53_69.png",
+    "id": "630679f4742b69652c62c46e"
+  },
+  {
+    "orden": 11,
+    "nombre": "Tecnología",
+    "jerarquia": "30012",
+    "imagen": "categorias/Tecnología_2022-07-08-17-59-35_76.png",
+    "id": "630679f4742b69652c62c46d"
+  },
+  {
+    "orden": 10,
+    "nombre": "Salud y Belleza",
+    "jerarquia": "30011",
+    "imagen": "categorias/Salud_y_Belleza_2022-07-08-17-58-49_17.png",
+    "id": "630679f4742b69652c62c46c"
+  },
+  {
+    "orden": 9,
+    "nombre": "Paraguas e Impermeables",
+    "jerarquia": "30010",
+    "imagen": "categorias/Paraguas_e_Impermeables_2022-07-08-17-57-43_77.png",
+    "id": "630679f4742b69652c62c46b"
+  },
+  {
+    "orden": 8,
+    "nombre": "Oficina",
+    "jerarquia": "30009",
+    "imagen": "categorias/Oficina_2022-07-08-17-57-18_25.png",
+    "id": "630679f4742b69652c62c46a"
+  },
+  {
+    "orden": 7,
+    "nombre": "Hogar y Estilos de Vida",
+    "jerarquia": "30008",
+    "imagen": "categorias/Hogar_y_Estilos_de_Vida_2022-07-08-17-56-53_59.png",
+    "id": "630679f4742b69652c62c469"
+  },
+  {
+    "orden": 6,
+    "nombre": "Herramientas, Linternas y Llaveros",
+    "jerarquia": "30007",
+    "imagen": "categorias/Herramientas_Linternas_y_Llaveros_2022-07-08-17-56-34_67.png",
+    "id": "630679f4742b69652c62c468"
+  },
+  {
+    "orden": 5,
+    "nombre": "Gorras y Viseras",
+    "jerarquia": "30006",
+    "imagen": "categorias/Gorras_y_Viseras_2022-07-08-17-55-57_27.png",
+    "id": "630679f4742b69652c62c467"
+  },
+  {
+    "orden": 4,
+    "nombre": "Escritura",
+    "jerarquia": "30005",
+    "imagen": "categorias/Escritura_2022-07-08-17-54-43_25.png",
+    "id": "630679f4742b69652c62c466"
+  },
+  {
+    "orden": 3,
+    "nombre": "Bolsos",
+    "jerarquia": "30004",
+    "imagen": "categorias/Bolsos_2022-07-08-17-54-24_36.png",
+    "id": "630679f4742b69652c62c465"
+  },
+  {
+    "orden": 2,
+    "nombre": "Bebidas",
+    "jerarquia": "30003",
+    "imagen": "categorias/Bebidas_2022-07-08-17-54-05_54.png",
+    "id": "630679f4742b69652c62c464"
+  },
+  {
+    "orden": 1,
+    "nombre": "Bar",
+    "jerarquia": "30002",
+    "imagen": "categorias/Bar_2022-07-08-17-53-44_33.png",
+    "id": "630679f4742b69652c62c463"
+  },
+  {
+    "orden": 0,
+    "nombre": "Antiestrés",
+    "jerarquia": "30001",
+    "imagen": "categorias/Antiestrés_2022-07-08-17-53-27_19.png",
+    "id": "630679f4742b69652c62c462"
+  }
+]
